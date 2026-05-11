@@ -37,11 +37,11 @@ export const EXAM_DATA: Exam[] = [
   { date: "17/05/2026", day: "الاحد", session: "الأولى", time: "09:30 - 11:30", courseCode: "134208", courseName: "مقدمة في الوسائط المتعددة" },
 
   // Page 2
-  { date: "17/05/2026", day: "الأحد", session: "الثانية", time: "12:00 - 14:00", courseCode: "134106", courseName: "تاريخ الفن" },
-  { date: "17/05/2026", day: "الأحد", session: "الثانية", time: "12:00 - 14:00", courseCode: "113114", courseName: "اعداد الباترونات واسس تعديلها" },
-  { date: "17/05/2026", day: "الأحد", session: "الثانية", time: "12:00 - 14:00", courseCode: "120206", courseName: "إنتاج المعجنات والمخبوزات" },
-  { date: "17/05/2026", day: "الأحد", session: "الثانية", time: "12:00 - 14:00", courseCode: "120208", courseName: "إنتاج طعام 4" },
-  { date: "17/05/2026", day: "الأحد", session: "الثانية", time: "12:00 - 14:00", courseCode: "142212", courseName: "عمارة وهيكلة الحاسب" },
+  { date: "17/05/2026", day: "الأحد", session: "الأولى", time: "09:30 - 11:30", courseCode: "134106", courseName: "تاريخ الفن" },
+  { date: "17/05/2026", day: "الأحد", session: "الأولى", time: "09:30 - 11:30", courseCode: "113114", courseName: "اعداد الباترونات واسس تعديلها" },
+  { date: "17/05/2026", day: "الأحد", session: "الأولى", time: "09:30 - 11:30", courseCode: "120206", courseName: "إنتاج المعجنات والمخبوزات" },
+  { date: "17/05/2026", day: "الأحد", session: "الأولى", time: "09:30 - 11:30", courseCode: "120208", courseName: "إنتاج طعام 4" },
+  { date: "17/05/2026", day: "الأحد", session: "الأولى", time: "09:30 - 11:30", courseCode: "142212", courseName: "عمارة وهيكلة الحاسب" },
   { date: "17/05/2026", day: "الاحد", session: "الثانية", time: "12:00 - 14:00", courseCode: "138210", courseName: "انتاج البرامج التلفزيونية و الاذاعية" },
   { date: "17/05/2026", day: "الاحد", session: "الثانية", time: "12:00 - 14:00", courseCode: "171213", courseName: "تمريض جراحة وباطني 1 نظري" },
   { date: "17/05/2026", day: "الاحد", session: "الثانية", time: "12:00 - 14:00", courseCode: "172209", courseName: "علم الحركة (الميكانيكا الحيوية)" },
@@ -114,9 +114,9 @@ export const EXAM_DATA: Exam[] = [
   { date: "21/05/2026", day: "الخميس", session: "الأولى", time: "09:30 - 11:30", courseCode: "421201", courseName: "تقنيات معالجة الصور بالحاسوب" },
 
   // Page 5
-  { date: "21/05/2026", day: "الخميس", session: "الثانية", time: "12:00 - 14:00", courseCode: "137214", courseName: "الذكاء الاصطناعي في العلوم المالية" },
-  { date: "21/05/2026", day: "الخميس", session: "الثانية", time: "12:00 - 14:00", courseCode: "137107", courseName: "أساسيات البرمجة باستخدام بايثون" },
-  { date: "21/05/2026", day: "الخميس", session: "الثانية", time: "12:00 - 14:00", courseCode: "138106", courseName: "مكساج الأفلام" },
+  { date: "21/05/2026", day: "الخميس", session: "الأولى", time: "09:30 - 11:30", courseCode: "137214", courseName: "الذكاء الاصطناعي في العلوم المالية" },
+  { date: "21/05/2026", day: "الخميس", session: "الأولى", time: "09:30 - 11:30", courseCode: "137107", courseName: "أساسيات البرمجة باستخدام بايثون" },
+  { date: "21/05/2026", day: "الخميس", session: "الأولى", time: "09:30 - 11:30", courseCode: "138106", courseName: "مكساج الأفلام" },
   { date: "21/05/2026", day: "الخميس", session: "الثانية", time: "12:00 - 14:00", courseCode: "113104", courseName: "تصميم ورسم أزياء بالحاسوب AI" },
   { date: "21/05/2026", day: "الخميس", session: "الثانية", time: "12:00 - 14:00", courseCode: "171211", courseName: "التواصل العلاجي وأخلاقيات المهنة الطبية" },
   { date: "21/05/2026", day: "الخميس", session: "الثانية", time: "12:00 - 14:00", courseCode: "422102", courseName: "أنظمة المنطق الرقمي" },
@@ -165,8 +165,8 @@ export const EXAM_DATA: Exam[] = [
   { date: "25/05/2026", day: "الاثنين", session: "الأولى", time: "09:30 - 11:30", courseCode: "110203", courseName: "مقدمة في علم وظائف الأعضاء" },
 
   // Page 7
-  { date: "25/05/2026", day: "الاثنين", session: "الثانية", time: "12:00 - 14:00", courseCode: "131102", courseName: "الكترونيات 1" },
-  { date: "25/05/2026", day: "الاثنين", session: "الثانية", time: "12:00 - 14:00", courseCode: "141211", courseName: "مختبر شبكات حاسوب" },
+  { date: "25/05/2026", day: "الاثنين", session: "الأولى", time: "09:30 - 11:30", courseCode: "131102", courseName: "الكترونيات 1" },
+  { date: "25/05/2026", day: "الاثنين", session: "الأولى", time: "09:30 - 11:30", courseCode: "141211", courseName: "مختبر شبكات حاسوب" },
   { date: "25/05/2026", day: "الاثنين", session: "الثانية", time: "12:00 - 14:00", courseCode: "100115", courseName: "مهارات رقمية" },
   { date: "25/05/2026", day: "الاثنين", session: "الثانية", time: "12:00 - 14:00", courseCode: "111102", courseName: "علم الأمراض الجلدية وعلاجها" },
   { date: "25/05/2026", day: "الاثنين", session: "الثانية", time: "12:00 - 14:00", courseCode: "410301", courseName: "الذكاء الاصطناعي في الأعمال" },
@@ -190,7 +190,7 @@ export const EXAM_DATA: Exam[] = [
   { date: "01/06/2026", day: "الاثنين", session: "الأولى", time: "09:30 - 11:30", courseCode: "172207", courseName: "العلاج اليدوي والمساج" },
 
   // Page 8
-  { date: "01/06/2026", day: "الاثنين", session: "الثانية", time: "12:00 - 14:00", courseCode: "110108", courseName: "تقنيات المساج والتجميل" },
+  { date: "01/06/2026", day: "الاثنين", session: "الأولى", time: "09:30 - 11:30", courseCode: "110108", courseName: "تقنيات المساج والتجميل" },
   { date: "01/06/2026", day: "الاثنين", session: "الثانية", time: "12:00 - 14:00", courseCode: "113112", courseName: "تفصيل وخياطة ملابس الأطفال" },
   { date: "01/06/2026", day: "الاثنين", session: "الثانية", time: "12:00 - 14:00", courseCode: "171109", courseName: "اللغة الانجليزية الطبية" },
   { date: "01/06/2026", day: "الاثنين", session: "الثانية", time: "12:00 - 14:00", courseCode: "124202", courseName: "مهارات العمل عن بعد" },
